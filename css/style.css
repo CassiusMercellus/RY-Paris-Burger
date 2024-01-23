@@ -69,6 +69,7 @@ button {
     font-weight:bold;
     font-size: 50px;
     padding:30px;
+    margin-bottom: 80px;
 }
 #paragraph2 {
     padding-left:30px;
@@ -93,13 +94,13 @@ button {
     text-align: center;
 }
 .second-panel-img img{
-    height: 500px;
+    height: 350px;
     width: 100%;
 }
 
 /* Third Page CSS */
 .third-panel {
-    background-color: #e9f9ff;
+    background-color: #c2e1ec;
     font-size: 30px;
     padding: 0px 30px;
     padding-bottom: 200px;
@@ -181,7 +182,7 @@ button {
     width: 100%;
     height: 100%;
     padding:10px;
-    background-color: #e9f9ff;
+    background-color: #c2e1ec;
 }
 
 /* footer CSS */
