@@ -1,0 +1,35 @@
+commit d1f208dfd6a37070b744b9b90357645921194a7f
+Author: CassiusMercellus <148610250+CassiusMercellus@users.noreply.github.com>
+Date:   Wed Jan 24 08:44:28 2024 -0800
+
+    finished project
+
+commit f25436ac721253deeff3cb02b7d3d9f2af6835a6
+Author: Cassius Hill <MarcelusWork@gmail.com>
+Date:   Mon Jan 22 18:10:11 2024 -0700
+
+    touch ups
+
+commit eaba4cc5d8500810ebf5ebedbdd7f1480b6c71ac
+Author: Cassius Hill <MarcelusWork@gmail.com>
+Date:   Mon Jan 22 18:04:49 2024 -0700
+
+    attempt fix 1
+
+commit 33b4cb905b5c894d4fb56f80bcee9a6c87952c60
+Author: Cassius Hill <MarcelusWork@gmail.com>
+Date:   Mon Jan 22 18:03:17 2024 -0700
+
+    fixed
+
+commit 31f9ae6db8c5b36ea54280d75b7b22960eb36e24
+Author: Cassius Hill <MarcelusWork@gmail.com>
+Date:   Mon Jan 22 17:49:28 2024 -0700
+
+    finished homepage
+
+commit 811606c506e8a323850d91dffbda87f65d7dd54c
+Author: CassiusMercellus <148610250+CassiusMercellus@users.noreply.github.com>
+Date:   Mon Jan 22 14:23:53 2024 -0800
+
+    first commit
